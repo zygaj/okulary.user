@@ -1,0 +1,19 @@
+close all;
+clc;
+clear all;
+format long
+
+
+f=12
+kolor='b'
+sygwfazie='n'
+
+s=inicjujokulary();
+fr=ustawgenokf(s,f);
+sygright(s,kolor)
+sygleft(s,kolor)
+syg2faza(s,'n')
+
+
+%pause(10)
+%end

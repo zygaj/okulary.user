@@ -1,0 +1,11 @@
+function kolorokulary(s,kolorlewy,kolorprawy)
+%made by Zyga on 25.01.2020
+%ustawienie kolorow okularow "RGB stroboskop"
+%
+
+if nargin<3
+    kolorprawy=kolorlewy;
+end
+
+sygright(s,kolorprawy)
+sygleft(s,kolorlewy)

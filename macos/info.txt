@@ -1,0 +1,7 @@
+zainstalowac driver z biezacego katalogu:
+MSP430LPCDC 1.0.3b.pkg
+wlaczajac w "Ochrona i prywatnosc" mozliwosc instalacji oprogramowania ze zrodel trzecich
+
+urzadzenie widzine w matlabie:
+/dev/cu.usbmodem141203
+
